@@ -1,0 +1,90 @@
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 16px;
+  color: #000000;
+    }
+  
+  table {
+    border-collapse: collapse;
+    }
+
+a.logo {
+  display: inline-block;
+}
+
+.inline-block {
+  display: inline-block;
+}
+
+.fs-13 {
+  font-size: 13px;
+}
+
+.lh-24 {
+  line-height: 24px;
+}
+
+.no-size {
+  font-size: 0;
+}
+
+.title {
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.img {
+  display: block;
+  padding: 0;
+  max-width: 100%;
+  border: 0;
+}
+
+.text {
+  padding: 0;
+  margin: 0;
+  line-height: 24px;
+}
+
+.button {
+  display: inline-block;
+  padding: 13px;
+  
+  font-size: 13px;
+  color:#000000;
+  text-decoration: none;
+
+  border-radius: 4px;
+  border-style: solid;
+  border-width: 1px;
+  border-color: #000000;
+}
+
+.head {
+  font-size: 22px;
+  font-weight: bold;
+}
+
+.social-ic {
+  display: inline-block;
+  
+  font-size: 13px;
+  color: #000000;
+}
+
+.add-text {
+  padding: 0;
+  margin: 0;
+  line-height: 18px;
+}
+
+.unsubscribe {
+  font-size: 13px;
+  color: #000000;
+}
+
+.dr {
+  border-width: 2px;
+  border-style: solid;
+  border-color: #000000;
+}
