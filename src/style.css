@@ -60,6 +60,10 @@ a.logo {
   border-color: #000000;
 }
 
+.main {
+  max-width: 504px;
+}
+
 .head {
   font-size: 22px;
   font-weight: bold;
